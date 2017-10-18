@@ -7,7 +7,7 @@ export class HelperCSOM {
 }
 
 export class MISGlobalNavigation { //s
-  /**
+  /** 55
   * Global Variable of the Menu
   *
   */
